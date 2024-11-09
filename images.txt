@@ -1,2 +1,2 @@
 hcp4715/hddm
-usememos/memos:0.22.0
+ghcr.io/usememos/memos:0.22.0
